@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+  <head>
+    <title>I Love you mom</title>
+  </head>
+  <body>
+    <p>Drawing on a paper or writing a letter is cool and all but i want you to keep this forever so i made you this website.</p>
+  </body>
+</html>
